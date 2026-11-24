@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-Vinda 的 Java Web 练习项目，使用 Spring、Spring MVC、MyBatis 和 JSP。仓库包含一个学生业务示例和一个周报应用。
+两个使用 Spring、Spring MVC、MyBatis 和 JSP 的 Java Web 练习。学生查询示例演示应用分层，周报应用展示这些层如何配合完成登录、填报和导出。
 
 | 项目 | 可以查看的实现 |
 | --- | --- |

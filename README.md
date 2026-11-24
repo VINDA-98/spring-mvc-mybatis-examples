@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-Vinda's Java web examples using Spring, Spring MVC, MyBatis, and JSP. The repository pairs a minimal student example with a weekly-report application.
+Two Java web exercises built with Spring, Spring MVC, MyBatis and JSP. A student lookup demonstrates the application layers, and a weekly-report application illustrates how they fit together in a larger workflow.
 
 | Project | What to explore |
 | --- | --- |
